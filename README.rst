@@ -10,10 +10,10 @@ For example if you are using conda, use statement: `conda create env -n some_nam
 
 4. Run `poetry install`
 
-# Topic Covered - Organizing code for model selection and model evaluation
+# Overview - Organizing code for model selection and model evaluation
 -----------------------------------------------------------------------
 Data scientists generally spend a lot of time training different models before narrowing down on the model that best suits their data. Here I have provided a code structure that makes it easy to implement and evaluate many models using my wrapper function. This simplifies the job of a data scientist and ML engineer to a great extent. To walk throught the code, I used a toy dataset and various regression models to demonstrate while providing a quick background for regression.
------------------------------------------------------------------------
+
 
 # Background
 -----------------------------------------------------------------------
