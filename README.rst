@@ -1,10 +1,9 @@
 # Installation Instructions
 -----------------------------------------------------------------------
 
-1. Create a virtual environment with python 3.7
-For example if you are using conda, use statement: `conda create env -n some_name python=3.7`
+1. Create a virtual environment with python 3.7. For example if you are using conda, use statement: `conda create env -n some_name python=3.7`
 
-2. Activate environment, For example with conda, use statement `conda activate some_name`
+2. Activate environment. For example with conda, use statement `conda activate some_name`
 
 3. Install `poetry` [https://python-poetry.org/docs/#installation]
 
