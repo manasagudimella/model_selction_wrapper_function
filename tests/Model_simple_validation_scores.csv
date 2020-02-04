@@ -1,0 +1,21 @@
+Model,Score Type,Score
+Simple Linear Regression,Test,0.704845248
+Multiple Regression using all available variables,Test,0.699643764
+Parsimonious Liear Regression,Test,0.77805097
+Lasso Regression,Test,0.672576644
+Ridge Regression,Test,0.680505822
+Elastic Net Regression,Test,0.717733674
+K Nearest Neighbors Regression,Test,0.691535333
+Stochastic Gradient Regression,Test,-4.91E+29
+Decision Tree Regression,Test,0.702189518
+Linear Support Vector Regression,Test,0.583918055
+Simple Linear Regression,Training,0.686815369
+Multiple Regression using all available variables,Training,0.703297028
+Parsimonious Liear Regression,Training,0.818713089
+Lasso Regression,Training,0.721436122
+Ridge Regression,Training,0.68582624
+Elastic Net Regression,Training,0.703080352
+K Nearest Neighbors Regression,Training,0.757909164
+Stochastic Gradient Regression,Training,-5.71E+29
+Decision Tree Regression,Training,0.731879715
+Linear Support Vector Regression,Training,0.710586317
